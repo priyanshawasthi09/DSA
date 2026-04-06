@@ -1,4 +1,4 @@
-package DSA.Arrays;
+package DSA.Arrays.Beginers;
 
 public class SecondSmallestAndSecondLargest {
     public static void main(String[] args) {
